@@ -5,6 +5,8 @@ body {
 
 .formulario {
     box-shadow: 6px 15px 42px 11px rgba(250, 125, 125, 0.425);
+    border-radius: 30px;
+
 }
 .link{
     font-size: 0.7em;
@@ -18,6 +20,7 @@ button {
     background: rgb(252, 206, 217);
     border: 1px solid #3b0000;
     transition: all .3s;
+    border-radius: 10px;
     box-shadow: 6px 6px 12px #c5c5c5,
         -6px -6px 12px #ffffff;
 }
